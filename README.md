@@ -1,2 +1,2 @@
 # Programing-Tidbits
-Random Code i write
+Random Code I Write
