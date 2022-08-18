@@ -1,0 +1,41 @@
+#use a code injctor
+#remove duckduckgo bloat
+body.page-index.body--home.body--onboarding {
+  background-image: url("replace with img url");
+  background-size: fill;
+  
+  
+}
+
+div.site-wrapper.site-wrapper--home.js-site-wrapper {
+  background-image: url("replace with img url");
+  background-size: fill;
+  
+}
+a.logo_homepage {
+  display: none;
+}
+
+div.badge-link.badge-link--full.js-badge-link {
+  display: none;
+}
+
+div.content-info {
+  display: none;
+}
+
+div.header--aside.js-header-aside {
+  display: none;
+}
+
+div.onboarding-ed__slide.onboarding-ed__slide-1.js-onboarding-ed-slide.js-onboarding-ed-slide-1 {
+  display: none;
+}
+
+article.faq {
+  display: none;
+}
+
+a.btn.btn--primary.atb-button--faq.ddg-extension-hide {
+  display: none;
+}
